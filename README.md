@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Mohammed+AlSarmi;ERP+Systems+Developer;ASP.NET+Core+%7C+React+%7C+React+Native;Building+Business+Solutions+%26+Enterprise+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Mohammed+AlSormy;ERP+Systems+Developer;ASP.NET+Core+%7C+React+%7C+React+Native;Building+Business+Solutions+%26+Enterprise+Systems" />
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=alsarmi&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=alsormy&style=for-the-badge&color=blue)
 
 </div>
 
@@ -17,7 +17,7 @@
 # 👨‍💻 About Me
 
 ```csharp
-public class MohammedAlSarmi
+public class MohammedAlsormy
 {
     public string Role => "ERP Systems Developer";
 
@@ -122,9 +122,9 @@ public class MohammedAlSarmi
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=alsarmi&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=alsormy&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsarmi&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsormy&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -134,7 +134,7 @@ public class MohammedAlSarmi
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alsarmi&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alsormy&theme=tokyonight"/>
 
 </div>
 
@@ -148,7 +148,7 @@ public class MohammedAlSarmi
 
 # 📫 Contact
 
-- GitHub: https://github.com/alsarmi
+- GitHub: https://github.com/alsormy
 - LinkedIn: Add Your LinkedIn Here
 - Email: Add Your Email Here
 
